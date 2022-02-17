@@ -32,7 +32,7 @@ The result of the task:
 1. Clone git rep.
 
     ```bash
-    git clone git@github.com/nurlan5t/survey_test_task.git
+    git clone https://github.com/nurlan5t/survey_test_task.git
     ```
 
 2. install docker и docker-compose
